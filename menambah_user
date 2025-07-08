@@ -1,0 +1,2 @@
+sudo adduser client
+sudo passwd *****
